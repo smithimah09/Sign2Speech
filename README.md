@@ -1,3 +1,5 @@
+# Sign2Speech
+
 ## Summary
 This project is a deep learning-based hand gesture recognition system using CNNs. It supports real-time classification of 44 static hand signs, including all letters of the alphabet, digits 0–9, and several custom signs. The system enables gesture-controlled text generation and calculator functionality using a webcam.
 
